@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: #2c3e50;
+    background: #62554f;
     padding: 24px;
 }
 
@@ -33,15 +33,6 @@ main {
     border-radius: 12px;
 }
 
-.section h2 {
-    margin-top: 0;
-}
-
-.accent {
-    color: #d35400;
-    font-weight: bold;
-}
-
 a {
     color: #2980b9;
     text-decoration: underline;
@@ -50,11 +41,4 @@ a {
 
 a:hover {
     color: #1c5a80;
-}
-
-footer {
-    background: #2c3e50;
-    color: #ffffff;
-    text-align: center;
-    padding: 16px;
 }
